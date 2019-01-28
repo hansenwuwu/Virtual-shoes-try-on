@@ -1,0 +1,4 @@
+#include <GL/glut.h>
+
+void Light();
+void GL_Setup()

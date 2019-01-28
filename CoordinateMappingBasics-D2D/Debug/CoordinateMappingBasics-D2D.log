@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (form.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  CoordinateMappingBasics.cpp
+c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\stdafx.h(24): fatal error C1083: 無法開啟包含檔案: 'Kinect.h': No such file or directory
+  glsetting.cpp
+  imgmap.cpp
+c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\stdafx.h(24): fatal error C1083: 無法開啟包含檔案: 'Kinect.h': No such file or directory
+  tracking.cpp
+c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\stdafx.h(24): fatal error C1083: 無法開啟包含檔案: 'Kinect.h': No such file or directory
+  ImageRenderer.cpp
+c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\stdafx.h(24): fatal error C1083: 無法開啟包含檔案: 'Kinect.h': No such file or directory
+  正在產生程式碼...

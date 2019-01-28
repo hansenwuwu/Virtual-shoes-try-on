@@ -1,0 +1,41 @@
+﻿Build started 2012/8/14 下午 08:57:00.
+     1>Project "D:\Rice\workspace2010\numerical\numerical.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "D:\Rice\workspace2010\Release\".
+       InitializeBuildStatus:
+         Creating "Release\numerical.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ID:\Rice\workspace2010\include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt algo.cpp distribution.cpp features.cpp linear.cpp nddistribution.cpp pr.cpp statistic.cpp
+         algo.cpp
+         distribution.cpp
+         features.cpp
+         linear.cpp
+     1>linear.cpp(885): warning C4101: 'v' : unreferenced local variable
+     1>linear.cpp(885): warning C4101: 'u' : unreferenced local variable
+     1>linear.cpp(884): warning C4101: 'mmin' : unreferenced local variable
+     1>linear.cpp(884): warning C4101: 'k' : unreferenced local variable
+         nddistribution.cpp
+         pr.cpp
+         statistic.cpp
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ID:\Rice\workspace2010\include /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt levmar.c linear2.c
+         levmar.c
+         linear2.c
+       Lib:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"D:\Rice\workspace2010\Release\numerical.lib" /NOLOGO /LTCG Release\algo.obj
+         Release\distribution.obj
+         Release\features.obj
+         Release\levmar.obj
+         Release\linear.obj
+         Release\linear2.obj
+         Release\nddistribution.obj
+         Release\pr.obj
+         Release\statistic.obj
+         numerical.vcxproj -> D:\Rice\workspace2010\Release\numerical.lib
+       FinalizeBuildStatus:
+         Deleting file "Release\numerical.unsuccessfulbuild".
+         Touching "Release\numerical.lastbuildstate".
+     1>Done Building Project "D:\Rice\workspace2010\numerical\numerical.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.00

@@ -1,0 +1,143 @@
+﻿已經開始建置於 2015/7/30 下午 12:09:31。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\Yuan\Desktop\鄭智鴻\windows版試穿_kinect2\form\form\form.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\form.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "CoordinateMappingBasics-D2D\CoordinateMappingBasics.cpp" form.cpp
+         form.cpp
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.h(67): error C2143: 語法錯誤 : 遺漏 ';' (在 '*' 之前)
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.h(67): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.h(68): error C2143: 語法錯誤 : 遺漏 ';' (在 '*' 之前)
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.h(68): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.h(69): error C2143: 語法錯誤 : 遺漏 ';' (在 '*' 之前)
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.h(69): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.h(72): error C2143: 語法錯誤 : 遺漏 ';' (在 '*' 之前)
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.h(72): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+         CoordinateMappingBasics.cpp
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.h(67): error C2143: 語法錯誤 : 遺漏 ';' (在 '*' 之前)
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.h(67): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.h(68): error C2143: 語法錯誤 : 遺漏 ';' (在 '*' 之前)
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.h(68): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.h(69): error C2143: 語法錯誤 : 遺漏 ';' (在 '*' 之前)
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.h(69): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.h(72): error C2143: 語法錯誤 : 遺漏 ';' (在 '*' 之前)
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.h(72): error C4430: 遺漏類型規範 - 假設為 int。注意: C++ 不支援 default-int
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(62): error C2614: 'CCoordinateMappingBasics' : 成員初始化不合法: 'm_pKinectSensor' 不是基底或成員類別
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(62): error C2614: 'CCoordinateMappingBasics' : 成員初始化不合法: 'm_pCoordinateMapper' 不是基底或成員類別
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(62): error C2614: 'CCoordinateMappingBasics' : 成員初始化不合法: 'm_pMultiSourceFrameReader' 不是基底或成員類別
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(62): error C2614: 'CCoordinateMappingBasics' : 成員初始化不合法: 'm_pDepthCoordinates' 不是基底或成員類別
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(79): error C2065: 'm_pDepthCoordinates' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(79): error C2061: 語法錯誤 : 識別項 'DepthSpacePoint'
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(113): error C2065: 'm_pDepthCoordinates' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(115): error C2065: 'm_pDepthCoordinates' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(115): error C2541: 'delete' : 無法刪除不是指標的物件
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(116): error C2065: 'm_pDepthCoordinates' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(120): error C3861: 'SafeRelease': 找不到識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(123): error C2065: 'm_pMultiSourceFrameReader' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(123): error C3861: 'SafeRelease': 找不到識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(126): error C2065: 'm_pCoordinateMapper' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(126): error C3861: 'SafeRelease': 找不到識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(129): error C2065: 'm_pKinectSensor' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(131): error C2065: 'm_pKinectSensor' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(131): error C2227: '->Close' 的左邊必須指向類別/結構/等位/泛型類型
+                 類型為 'unknown-type'
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(134): error C2065: 'm_pKinectSensor' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(134): error C3861: 'SafeRelease': 找不到識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(212): error C2065: 'm_pMultiSourceFrameReader' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(217): error C2065: 'IMultiSourceFrame' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(217): error C2065: 'pMultiSourceFrame' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(218): error C2065: 'IDepthFrame' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(218): error C2065: 'pDepthFrame' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(219): error C2065: 'IColorFrame' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(219): error C2065: 'pColorFrame' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(220): error C2065: 'IBodyIndexFrame' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(220): error C2065: 'pBodyIndexFrame' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(222): error C2065: 'm_pMultiSourceFrameReader' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(222): error C2227: '->AcquireLatestFrame' 的左邊必須指向類別/結構/等位/泛型類型
+                 類型為 'unknown-type'
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(222): error C2065: 'pMultiSourceFrame' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(226): error C2065: 'IDepthFrameReference' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(226): error C2065: 'pDepthFrameReference' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(228): error C2065: 'pMultiSourceFrame' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(228): error C2227: '->get_DepthFrameReference' 的左邊必須指向類別/結構/等位/泛型類型
+                 類型為 'unknown-type'
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(228): error C2065: 'pDepthFrameReference' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(231): error C2065: 'pDepthFrameReference' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(231): error C2227: '->AcquireFrame' 的左邊必須指向類別/結構/等位/泛型類型
+                 類型為 'unknown-type'
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(231): error C2065: 'pDepthFrame' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(234): error C2065: 'pDepthFrameReference' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(234): error C3861: 'SafeRelease': 找不到識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(239): error C2065: 'IColorFrameReference' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(239): error C2065: 'pColorFrameReference' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(241): error C2065: 'pMultiSourceFrame' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(241): error C2227: '->get_ColorFrameReference' 的左邊必須指向類別/結構/等位/泛型類型
+                 類型為 'unknown-type'
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(241): error C2065: 'pColorFrameReference' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(244): error C2065: 'pColorFrameReference' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(244): error C2227: '->AcquireFrame' 的左邊必須指向類別/結構/等位/泛型類型
+                 類型為 'unknown-type'
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(244): error C2065: 'pColorFrame' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(247): error C2065: 'pColorFrameReference' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(247): error C3861: 'SafeRelease': 找不到識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(252): error C2065: 'IBodyIndexFrameReference' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(252): error C2065: 'pBodyIndexFrameReference' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(254): error C2065: 'pMultiSourceFrame' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(254): error C2227: '->get_BodyIndexFrameReference' 的左邊必須指向類別/結構/等位/泛型類型
+                 類型為 'unknown-type'
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(254): error C2065: 'pBodyIndexFrameReference' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(257): error C2065: 'pBodyIndexFrameReference' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(257): error C2227: '->AcquireFrame' 的左邊必須指向類別/結構/等位/泛型類型
+                 類型為 'unknown-type'
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(257): error C2065: 'pBodyIndexFrame' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(260): error C2065: 'pBodyIndexFrameReference' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(260): error C3861: 'SafeRelease': 找不到識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(266): error C2065: 'IFrameDescription' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(266): error C2065: 'pDepthFrameDescription' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(272): error C2065: 'IFrameDescription' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(272): error C2065: 'pColorFrameDescription' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(275): error C2065: 'ColorImageFormat' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(275): error C2146: 語法錯誤 : 遺漏 ';' (在識別項 'imageFormat' 之前)
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(275): error C2065: 'imageFormat' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(275): error C2065: 'ColorImageFormat_None' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(279): error C2065: 'IFrameDescription' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(279): error C2065: 'pBodyIndexFrameDescription' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(287): error C2065: 'pDepthFrame' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(287): error C2227: '->get_RelativeTime' 的左邊必須指向類別/結構/等位/泛型類型
+                 類型為 'unknown-type'
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(291): error C2065: 'pDepthFrame' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(291): error C2227: '->get_FrameDescription' 的左邊必須指向類別/結構/等位/泛型類型
+                 類型為 'unknown-type'
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(291): error C2065: 'pDepthFrameDescription' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(296): error C2065: 'pDepthFrameDescription' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(296): error C2227: '->get_Width' 的左邊必須指向類別/結構/等位/泛型類型
+                 類型為 'unknown-type'
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(301): error C2065: 'pDepthFrameDescription' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(301): error C2227: '->get_Height' 的左邊必須指向類別/結構/等位/泛型類型
+                 類型為 'unknown-type'
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(306): error C2065: 'pDepthFrame' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(306): error C2227: '->AccessUnderlyingBuffer' 的左邊必須指向類別/結構/等位/泛型類型
+                 類型為 'unknown-type'
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(313): error C2065: 'pColorFrame' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(313): error C2227: '->get_FrameDescription' 的左邊必須指向類別/結構/等位/泛型類型
+                 類型為 'unknown-type'
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(313): error C2065: 'pColorFrameDescription' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(318): error C2065: 'pColorFrameDescription' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(318): error C2227: '->get_Width' 的左邊必須指向類別/結構/等位/泛型類型
+                 類型為 'unknown-type'
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(323): error C2065: 'pColorFrameDescription' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(323): error C2227: '->get_Height' 的左邊必須指向類別/結構/等位/泛型類型
+                 類型為 'unknown-type'
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(328): error C2065: 'pColorFrame' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(328): error C2227: '->get_RawColorImageFormat' 的左邊必須指向類別/結構/等位/泛型類型
+                 類型為 'unknown-type'
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(328): error C2065: 'imageFormat' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(333): error C2065: 'imageFormat' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(333): error C2065: 'ColorImageFormat_Bgra' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(335): error C2065: 'pColorFrame' : 未宣告的識別項
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(335): error C2227: '->AccessRawUnderlyingBuffer' 的左邊必須指向類別/結構/等位/泛型類型
+     1>c:\users\yuan\desktop\鄭智鴻\windows版試穿_kinect2\form\form\coordinatemappingbasics-d2d\coordinatemappingbasics.cpp(335): fatal error C1003: 錯誤計數超過 100; 停止編譯
+         正在產生程式碼...
+     1>專案 "C:\Users\Yuan\Desktop\鄭智鴻\windows版試穿_kinect2\form\form\form.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.90

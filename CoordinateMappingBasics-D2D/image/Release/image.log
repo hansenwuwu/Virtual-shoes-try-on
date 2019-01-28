@@ -1,0 +1,60 @@
+﻿Build started 2012/8/14 下午 08:57:08.
+     1>Project "D:\Rice\workspace2010\image\image.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\image.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ID:\Rice\workspace2010\include /ID:\Rice\workspace2010\numerical /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\workspace2008\image\aip.cpp ..\..\workspace2008\image\bitmap.cpp ..\..\workspace2008\image\cvision.cpp ..\..\workspace2008\image\image.cpp ..\..\workspace2008\image\imgproc.cpp ..\..\workspace2008\image\imgproc2.cpp ..\..\workspace2008\image\matte.cpp ..\..\workspace2008\image\normcut.cpp ..\..\workspace2008\image\optflow.cpp ..\..\workspace2008\image\ppm.cpp ..\..\workspace2008\image\sift.cpp
+         aip.cpp
+         bitmap.cpp
+         cvision.cpp
+     1>..\..\workspace2008\image\cvision.cpp(420): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         image.cpp
+         imgproc.cpp
+     1>..\..\workspace2008\image\imgproc.cpp(30): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\workspace2008\image\imgproc.cpp(804): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\workspace2008\image\imgproc.cpp(1264): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\workspace2008\image\imgproc.cpp(1269): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\workspace2008\image\imgproc.cpp(1272): warning C4244: '=' : conversion from 'float' to 'BYTE', possible loss of data
+     1>..\..\workspace2008\image\imgproc.cpp(1273): warning C4244: '=' : conversion from 'float' to 'BYTE', possible loss of data
+     1>..\..\workspace2008\image\imgproc.cpp(1274): warning C4244: '=' : conversion from 'float' to 'BYTE', possible loss of data
+     1>..\..\workspace2008\image\imgproc.cpp(1276): warning C4244: '+=' : conversion from 'float' to 'BYTE', possible loss of data
+     1>..\..\workspace2008\image\imgproc.cpp(1277): warning C4244: '+=' : conversion from 'float' to 'BYTE', possible loss of data
+     1>..\..\workspace2008\image\imgproc.cpp(1278): warning C4244: '+=' : conversion from 'float' to 'BYTE', possible loss of data
+     1>..\..\workspace2008\image\imgproc.cpp(1281): warning C4244: '+=' : conversion from 'float' to 'BYTE', possible loss of data
+     1>..\..\workspace2008\image\imgproc.cpp(1282): warning C4244: '+=' : conversion from 'float' to 'BYTE', possible loss of data
+     1>..\..\workspace2008\image\imgproc.cpp(1283): warning C4244: '+=' : conversion from 'float' to 'BYTE', possible loss of data
+     1>..\..\workspace2008\image\imgproc.cpp(1286): warning C4244: '+=' : conversion from 'float' to 'BYTE', possible loss of data
+     1>..\..\workspace2008\image\imgproc.cpp(1287): warning C4244: '+=' : conversion from 'float' to 'BYTE', possible loss of data
+     1>..\..\workspace2008\image\imgproc.cpp(1288): warning C4244: '+=' : conversion from 'float' to 'BYTE', possible loss of data
+     1>..\..\workspace2008\image\imgproc.cpp(1304): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>..\..\workspace2008\image\imgproc.cpp(1309): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         imgproc2.cpp
+         matte.cpp
+         normcut.cpp
+         optflow.cpp
+         ppm.cpp
+         sift.cpp
+     1>..\..\workspace2008\image\sift.cpp(378): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>..\..\workspace2008\image\sift.cpp(524): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>..\..\workspace2008\image\sift.cpp(524): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+       Lib:
+         d:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"D:\Rice\workspace2010\Release\image.lib" /NOLOGO /LTCG Release\aip.obj
+         Release\bitmap.obj
+         Release\cvision.obj
+         Release\image.obj
+         Release\imgproc.obj
+         Release\imgproc2.obj
+         Release\matte.obj
+         Release\normcut.obj
+         Release\optflow.obj
+         Release\ppm.obj
+         Release\sift.obj
+         image.vcxproj -> D:\Rice\workspace2010\Release\image.lib
+       FinalizeBuildStatus:
+         Deleting file "Release\image.unsuccessfulbuild".
+         Touching "Release\image.lastbuildstate".
+     1>Done Building Project "D:\Rice\workspace2010\image\image.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.36

@@ -1,0 +1,19 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 30.08.2011 17:18:57
+
+#
+# object Test
+#
+
+v 0.0 0.0 300.0
+v 100.0 0.0 300.0
+v 100.0 100.0 300.0
+v 0.0 100.0 300.0
+
+g Plane
+
+f 1 2 3
+f 1 3 4
+
+# 2 faces
+

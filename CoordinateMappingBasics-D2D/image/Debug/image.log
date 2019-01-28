@@ -1,0 +1,17 @@
+﻿已經開始建置於 2013/7/15 下午 04:38:00。
+     1>節點 3 (build 目標) 上的專案 "C:\Users\Kai\Desktop\20130629 caliOK\image\image.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\image.unsuccessfulbuild"。
+       ClCompile:
+         所有輸出都是最新的。
+       Lib:
+         所有輸出都是最新的。
+         image.vcxproj -> C:\Users\Kai\Desktop\20130629 caliOK\Debug\image.lib
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\image.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\image.lastbuildstate"。
+     1>專案 "C:\Users\Kai\Desktop\20130629 caliOK\image\image.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.15

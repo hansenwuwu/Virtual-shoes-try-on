@@ -1,0 +1,25 @@
+﻿已經開始建置於 2017/3/2 下午 03:59:56。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\PRL727\Desktop\VirtualTryOn\windows版鞋品試穿_單腳_kinect2\CoordinateMappingBasics-D2D\CoordinateMappingBasics-D2D.vcxproj"。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\PRL727\Desktop\VirtualTryOn\windows版鞋品試穿_單腳_kinect2\CoordinateMappingBasics-D2D\Release\CoordinateMappingBasics-D2D.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\PRL727\Desktop\VirtualTryOn\windows版鞋品試穿_單腳_kinect2\CoordinateMappingBasics-D2D\library" /LIBPATH:"C:\Users\PRL727\Desktop\VirtualTryOn\windows版鞋品試穿_單腳_kinect2\CoordinateMappingBasics-D2D\Release" opencv_ts300d.lib opencv_world300d.lib kinect20.lib windowscodecs.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib opengl32.lib glut32.lib jpeglib.lib image.lib lib3D.lib numerical.lib memory.lib nonlinear kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libcmt.lib /NODEFAULTLIB:libcmtd.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\PRL727\Desktop\VirtualTryOn\windows版鞋品試穿_單腳_kinect2\CoordinateMappingBasics-D2D\Release\CoordinateMappingBasics-D2D.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\PRL727\Desktop\VirtualTryOn\windows版鞋品試穿_單腳_kinect2\CoordinateMappingBasics-D2D\Release\CoordinateMappingBasics-D2D.lib" /MACHINE:X86 /SAFESEH Release\CoordinateMappingBasics.res
+         Release\CoordinateMappingBasics.obj
+         Release\glsetting.obj
+         Release\imgmap.obj
+         Release\tracking.obj
+         Release\ImageRenderer.obj
+     1>LINK : warning LNK4075: 忽略 '/INCREMENTAL'，由於 '/LTCG' 規格
+     1>image.lib(imgproc2.obj) : warning LNK4075: 忽略 '/EDITANDCONTINUE'，由於 '/OPT:ICF' 規格
+     1>lib3D.lib(obj.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符:  '2' 值與 '0' 值 (位於 CoordinateMappingBasics.obj) 不符
+     1>lib3D.lib(obj.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符:  'MDd_DynamicDebug' 值與 'MD_DynamicRelease' 值 (位於 CoordinateMappingBasics.obj) 不符
+     1>lib3D.lib(icp.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符:  '2' 值與 '0' 值 (位於 CoordinateMappingBasics.obj) 不符
+     1>lib3D.lib(icp.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符:  'MDd_DynamicDebug' 值與 'MD_DynamicRelease' 值 (位於 CoordinateMappingBasics.obj) 不符
+     1>lib3D.lib(depthimage.obj) : error LNK2038: 偵測到 '_ITERATOR_DEBUG_LEVEL' 不符:  '2' 值與 '0' 值 (位於 CoordinateMappingBasics.obj) 不符
+     1>lib3D.lib(depthimage.obj) : error LNK2038: 偵測到 'RuntimeLibrary' 不符:  'MDd_DynamicDebug' 值與 'MD_DynamicRelease' 值 (位於 CoordinateMappingBasics.obj) 不符
+     1>LINK : warning LNK4098: 預設的程式庫 'MSVCRTD' 與其他使用的程式庫衝突，請使用 /NODEFAULTLIB:library
+     1>MSVCRT.lib(crtexew.obj) : error LNK2001: 無法解析的外部符號 _WinMain@16
+     1>C:\Users\PRL727\Desktop\VirtualTryOn\windows版鞋品試穿_單腳_kinect2\CoordinateMappingBasics-D2D\Release\CoordinateMappingBasics-D2D.exe : fatal error LNK1120: 1 個無法解析的外部符號
+     1>專案 "C:\Users\PRL727\Desktop\VirtualTryOn\windows版鞋品試穿_單腳_kinect2\CoordinateMappingBasics-D2D\CoordinateMappingBasics-D2D.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.36

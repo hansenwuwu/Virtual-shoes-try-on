@@ -1,0 +1,49 @@
+﻿  3dconfig.c
+c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\lib3d\3dconfig.c(631): warning C4013: 'memcpy' 未定義; 假設 extern 傳回整數
+  geometry.c
+  transform.c
+  正在產生程式碼...
+  calibration.cpp
+  curve.cpp
+  depthimage.cpp
+c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\image\image.h(603): warning C4473: 'fscanf_s' : 傳遞給格式字串的引數不足
+  c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\image\image.h(603): note: 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+  c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\image\image.h(603): note: 缺少 variadic 引數 2 (其為格式字串 '%s' 所需)
+  c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\image\image.h(603): note: 此引數可用為緩衝區大小
+  c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\image\image.h(575): note: 編譯 類別 樣板 成員函式 'int ImageR<int>::ReadPPM(const char *)' 時
+  c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\lib3d\depthimage.cpp(48): note: 請參閱所要編譯的函式 樣板 具現化 'int ImageR<int>::ReadPPM(const char *)' 之參考
+  c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\lib3d\depthimage.h(22): note: 查看要編譯的 類別 樣板 具現化 'ImageR<int>' 參考
+  icp.cpp
+c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\lib3d\icp.cpp(192): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\lib3d\icp.cpp(141): warning C4101: 'np': 未參考的區域變數
+c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\lib3d\icp.cpp(243): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\lib3d\icp.cpp(265): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\lib3d\icp.cpp(208): warning C4101: 'end': 未參考的區域變數
+c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\lib3d\icp.cpp(200): warning C4101: 'pbuf1': 未參考的區域變數
+c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\lib3d\icp.cpp(208): warning C4101: 'start': 未參考的區域變數
+c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\lib3d\icp.cpp(203): warning C4101: 'j': 未參考的區域變數
+c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\lib3d\icp.cpp(200): warning C4101: 'np': 未參考的區域變數
+c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\lib3d\icp.cpp(199): warning C4101: 'd2': 未參考的區域變數
+c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\lib3d\icp.cpp(387): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  mesh deform.cpp
+  obj.cpp
+c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\lib3d\obj.cpp(764): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(133): note: 請參閱 'strcpy' 的宣告
+c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\image\image.h(603): warning C4473: 'fscanf_s' : 傳遞給格式字串的引數不足
+  c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\image\image.h(603): note: 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+  c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\image\image.h(603): note: 缺少 variadic 引數 2 (其為格式字串 '%s' 所需)
+  c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\image\image.h(603): note: 此引數可用為緩衝區大小
+  c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\image\image.h(575): note: 編譯 類別 樣板 成員函式 'int ImageR<BYTE>::ReadPPM(const char *)' 時
+  c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\image\image.h(162): note: 請參閱所要編譯的函式 樣板 具現化 'int ImageR<BYTE>::ReadPPM(const char *)' 之參考
+  c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\lib3d\obj.cpp(782): note: 查看要編譯的 類別 樣板 具現化 'ImageR<BYTE>' 參考
+c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\image\image.h(668): warning C4477: 'fscanf_s' : 格式字串 '%d' 需要 'int *' 類型的引數，但 variadic 引數 1 的類型為 'T *'
+          with
+          [
+              T=BYTE
+          ]
+  c:\users\ideapad 720s\downloads\hansen project\virtualtryonmethod01\virtualtryon\coordinatemappingbasics-d2d\image\image.h(668): note: 請考慮在格式字串中使用 '%hhd'
+  surface.cpp
+  var.cpp
+  正在產生程式碼...
+geometry.obj : warning LNK4221: 這個物件檔案沒有定義任何以前未定義的公用符號，因此任何使用這個程式庫的連結作業都將不會使用它。
+  lib3D.vcxproj -> C:\Users\ideapad 720s\Downloads\Hansen project\VirtualTryonMethod01\VirtualTryOn\CoordinateMappingBasics-D2D\Debug\lib3D.lib

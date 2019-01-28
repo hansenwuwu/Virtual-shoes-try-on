@@ -1,0 +1,17 @@
+﻿已經開始建置於 2013/7/15 下午 04:37:53。
+     1>節點 2 (build 目標) 上的專案 "C:\Users\Kai\Desktop\20130629 caliOK\memory\memory.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\memory.unsuccessfulbuild"。
+       ClCompile:
+         所有輸出都是最新的。
+       Lib:
+         所有輸出都是最新的。
+         memory.vcxproj -> C:\Users\Kai\Desktop\20130629 caliOK\Debug\memory.lib
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\memory.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\memory.lastbuildstate"。
+     1>專案 "C:\Users\Kai\Desktop\20130629 caliOK\memory\memory.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.21

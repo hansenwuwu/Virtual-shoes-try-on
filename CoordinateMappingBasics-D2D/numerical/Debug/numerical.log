@@ -1,0 +1,18 @@
+﻿已經開始建置於 2013/7/15 下午 04:38:00。
+     1>節點 2 (build 目標) 上的專案 "C:\Users\Kai\Desktop\20130629 caliOK\numerical\numerical.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\numerical.unsuccessfulbuild"。
+       ClCompile:
+         所有輸出都是最新的。
+         所有輸出都是最新的。
+       Lib:
+         所有輸出都是最新的。
+         numerical.vcxproj -> C:\Users\Kai\Desktop\20130629 caliOK\Debug\numerical.lib
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\numerical.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\numerical.lastbuildstate"。
+     1>專案 "C:\Users\Kai\Desktop\20130629 caliOK\numerical\numerical.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.27

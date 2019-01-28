@@ -1,0 +1,72 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 22.07.2013 20:46:12
+
+newmtl 02___Default
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Kai\Desktop\20130722 Experiment\data\shoe\v9.jpg
+	map_Kd C:\Users\Kai\Desktop\20130722 Experiment\data\shoe\v9.jpg
+
+newmtl 07___Default
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 0.0000 0.0000
+	Kd 1.0000 0.0000 0.0000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Kai\Desktop\20130722 Experiment\data\shoe\v12.jpg
+	map_Kd C:\Users\Kai\Desktop\20130722 Experiment\data\shoe\v12.jpg
+
+newmtl 01___Default
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 0.9000 0.6000
+	Kd 1.0000 0.9000 0.6000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Kai\Desktop\20130722 Experiment\data\shoe\m3.jpg
+	map_Kd C:\Users\Kai\Desktop\20130722 Experiment\data\shoe\m3.jpg
+
+newmtl Material__26
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Kai\Desktop\20130722 Experiment\data\shoe\odzebrablack-f.jpg
+	map_Kd C:\Users\Kai\Desktop\20130722 Experiment\data\shoe\odzebrablack-f.jpg
+
+newmtl 03___Default
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6000 0.6000 0.6000
+	Kd 0.6000 0.6000 0.6000
+	Ks 0.2000 0.2000 0.2000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Kai\Desktop\20130722 Experiment\data\shoe\v3.jpg
+	map_Kd C:\Users\Kai\Desktop\20130722 Experiment\data\shoe\v3.jpg
