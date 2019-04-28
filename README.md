@@ -6,3 +6,8 @@ in 3d space coordinate. Position shoes 3d model by foots position. Let customer 
 * C++ language
 * Visual Studio 2013
 * Kinect v2
+
+# Demo
+![Alt text](https://imgur.com/bd1gkca.jpg)
+<br /><br />
+Video: https://drive.google.com/open?id=1O2yXsrnP72LdX9tUgEt7rjdGzAuFS_GL
